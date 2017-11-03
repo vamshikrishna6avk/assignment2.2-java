@@ -1,0 +1,19 @@
+DIFFERENCE BETWEEN COMPILER AND INTERPRETER:
+
+COMPILER  :
+           Compiler is a translater that translate higher level languague(source program) to assembly level language(target program)
+           Higher level language:This is consider to be high level because they are close to human languages.
+           Assembly level language:it is a low level language which designed to operate entire hardware and instruction set.These are closer to                 computers.
+           Compiler refers to a program which transtales  source code into the java virtual machine bytecodes.
+           Compiler checks the source code and point out all bugs,and run a program
+           EG:c++,java,c
+              
+INTERPRETER:
+           Interpreter is responsible to run program line by line.
+           It directly executes that is perform instructions written in a programming language without previously compiling them into machine                   language programm.
+           Comparing to compiler interpreter detects bugs line by line  more efficitely.
+           JVM is interpreter which is responsible to read lines and execute programme line by line.
+           EG:BASIC,PYTHON etc
+           
+          
+            
